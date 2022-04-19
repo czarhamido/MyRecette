@@ -1,4 +1,5 @@
 # MyRecette
-ReactNative Project
+# ReactNative Project
+
 to install it run:
 npm install
